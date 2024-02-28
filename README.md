@@ -1,5 +1,7 @@
 #Quiz app
 
+this app is deployed on Git Hub pages: https://malakabdalla.github.io/Quizz-App/
+
 Introduction of the project aim:
 This is an app that shows multiple questions, counts the correct answers then gives you the score you can redo the questions as much as possible by resiting the exam
 
